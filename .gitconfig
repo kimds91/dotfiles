@@ -1,6 +1,6 @@
 [user]
-    name = Oscar Täckström
-    email = oscar@inceptive.team
+    name = Do Soon Kim
+    email = dosoonkim91@gmail.com
 [credential "https://github.com"]
     helper = !/usr/bin/gh auth git-credential
 [diff]
